@@ -114,11 +114,11 @@ python tools/train.py configs/GFL_LiDAE.py work-dir_GFL_LiDAE/gfl_lidae.pth --wo
 |            | 1.0           | 9          | 2.785       |
 
 ## Model Release
-| name | Params(M) | model |
+| name | Params(M) | model |config|
 |------------|:-------------:|:-----------:|
-| FCOS-LiDAE | 35.189 | [model](https://github.com/your-repo/LiDAE/releases/download/v1.0/fcos_lidae.pth) |
-| ATSS-LiDAE | 35.281 | [model](https://github.com/your-repo/LiDAE/releases/download/v1.0/atss_lidae.pth) |
-| GFL-LiDAE | 35.226 | [model](https://github.com/your-repo/LiDAE/releases/download/v1.0/gfl_lidae.pth) |
+| FCOS-LiDAE | 35.189 | [model](https://pan.baidu.com/s/1tN0mXuef3iwzlc7FNQflOg?pwd=jwsh) |[config](https://pan.baidu.com/s/1FBuNjFwfhq8Bav7de88n4Q?pwd=ia8b) |
+| ATSS-LiDAE | 35.281 | [model](https://pan.baidu.com/s/1fjThbnnGxQtCpTbrI1RCUQ?pwd=ghtr) |[config](https://pan.baidu.com/s/1lI9OUnGsVxIdrEPixD-fng?pwd=zgpi) |
+| GFL-LiDAE | 35.226 | [model](https://pan.baidu.com/s/140EL6gdftme7lyb5cMW4Sw?pwd=8vvs) |[config](https://pan.baidu.com/s/1zwjn_ISBahlVzKKIBPgJig?pwd=qq1u)|
 
 ## Acknowledgement
 Our LLMDet is heavily inspired by many outstanding prior works, including
