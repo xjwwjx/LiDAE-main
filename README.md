@@ -121,7 +121,7 @@ python tools/train.py configs/GFL_LiDAE.py work-dir_GFL_LiDAE/gfl_lidae.pth --wo
 | GFL-LiDAE | 35.226 | [model](https://pan.baidu.com/s/140EL6gdftme7lyb5cMW4Sw?pwd=8vvs) | [config](https://pan.baidu.com/s/1zwjn_ISBahlVzKKIBPgJig?pwd=qq1u) |
 
 ## Acknowledgement
-Our LLMDet is heavily inspired by many outstanding prior works, including
+LiDAE is heavily inspired by many outstanding prior works, including
 - [MMDetection](https://github.com/open-mmlab/mmdetection)
 - [WtConv](https://github.com/BGU-CS-VIL/WTConv)
 - [IA-YOLO](https://github.com/Saleh-Ibtasham/IA-YOLO_reproduce)
